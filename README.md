@@ -48,8 +48,8 @@ Figure 02  Encoder 8 * 3
 
 ## PROGRAM:
 ```
-Developed by: Prasannalakshmi G
-RegisterNumber: 212222240075
+Developed by: VAISHALI BALAMURUGAN
+RegisterNumber: 212222230164
 ```
 ```
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
